@@ -8,7 +8,7 @@ EF7 is in development, do not use it in production before the final release :p
 ## Installation
 
 You need to add http://www.myget.org to your package sources and get the nigthly build of EF7.
-Beware, i built this exemple and i have no doubt it will be obsolete very soon :)
+Beware, i built this exemple and i have no doubt that it will be obsolete soon :)
 
 Have fun !
 
