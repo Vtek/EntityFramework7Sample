@@ -1,4 +1,4 @@
-EF7 Exemple
+EF7 Sample
 =======
 
 EF7 is in development, do not use it in production before the final release :p
@@ -7,7 +7,7 @@ EF7 is in development, do not use it in production before the final release :p
 
 ## Installation
 
-You need to add http://www.myget.org to your package sources and get the nigthly build of EF7.
+You need to add https://www.myget.org/F/aspnetvnext/api/v2/ to your package sources and get the nigthly build of EF7.The source code contains a data insertion banchmark (EF6 multiple request VS EF7 batching mode).
 Beware, i built this exemple and i have no doubt that it will be obsolete soon :)
 
 Have fun with code based modeling !
